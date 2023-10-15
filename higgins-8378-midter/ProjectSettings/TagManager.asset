@@ -9,6 +9,8 @@ TagManager:
   - ammo
   - door
   - switch
+  - trap
+  - kill
   layers:
   - Default
   - TransparentFX
@@ -17,7 +19,7 @@ TagManager:
   - Water
   - UI
   - terrain
-  - 
+  - switch
   - 
   - 
   - 
