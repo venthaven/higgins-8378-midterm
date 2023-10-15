@@ -7,6 +7,8 @@ TagManager:
   - terrain
   - score
   - ammo
+  - door
+  - switch
   layers:
   - Default
   - TransparentFX
