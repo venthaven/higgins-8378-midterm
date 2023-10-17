@@ -11,6 +11,8 @@ TagManager:
   - switch
   - trap
   - kill
+  - enemy
+  - player
   layers:
   - Default
   - TransparentFX
